@@ -1,1 +1,1 @@
-alert('yess')
+alert('yes')
